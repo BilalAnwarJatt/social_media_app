@@ -3,3 +3,4 @@ frontend
 backend
 screenshot
 managing data
+sharing information
